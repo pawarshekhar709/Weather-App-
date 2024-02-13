@@ -3,5 +3,5 @@ A simple website made by HTML/CSS/JS. This uses weather API to get weather data 
 
 # SCREENSHOTS
 
-![](assets/scrreenshot.png)
+
 
